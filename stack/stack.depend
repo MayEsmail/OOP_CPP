@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607587763 source:d:\c++ projects\stack\main.cpp
+	<bits/stdc++.h>
+	"linked_list.h"
+
+1607586236 d:\c++ projects\stack\linked_list.h
+
